@@ -2,8 +2,8 @@
                                                         YgorPimentel@TRUUZA
   ████████╗██████╗ ██╗   ██╗██╗   ██╗███████╗ █████╗ :  --------------------------------------------------
   ╚══██╔══╝██╔══██╗██║   ██║██║   ██║╚══███╔╝██╔══██╗:  OS           : Windows 11 Pro (Tuned), Android
-     ██║   ██████╔╝██║   ██║██║   ██║  ███╔╝ ███████║:  Host         : TRUUZA Tech & Gaming Lab
-     ██║   ██╔══██╗██║   ██║██║   ██║ ███╔╝  ██╔══██║:  Kernel       : Hardware Maintenance, AI & Automation
+     ██║   ██████╔╝██║   ██║██║   ██║  ███╔╝ ███████║:  Host         : TRUUZA Tech & AI Lab
+     ██║   ██╔══██╗██║   ██║██║   ██║ ███╔╝  ██╔══██║:  Kernel       : Local AI, System Tuning & Automation
      ██║   ██║  ██║╚██████╔╝╚██████╔╝███████╗██║  ██║:  Shell        : PowerShell 7 / Bash
      ╚═╝   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝:  IDE          : VS Code, ComfyUI, CorelDRAW
                                                         
@@ -45,6 +45,6 @@
   </a>
 
   <br><br>
-  <sub>⚡ <i>Otimizando sistemas, treinando workflows de IA local e dando vida nova a controles na TRUUZA entre um script e outro.</i></sub>
+  <sub>⚡ <i>Otimizando sistemas, criando automações em PowerShell e desenvolvendo workflows de IA local entre um commit e outro.</i></sub>
 
 </div>
