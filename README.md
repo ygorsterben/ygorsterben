@@ -1,28 +1,28 @@
 ```yaml
-                                                      YgorPimentel@TRUUZA
-  "████████╗██████╗ ██╗   ██╗██╗   ██╗███████╗ █████╗"  --------------------------------------------------
-  "╚══██╔══╝██╔══██╗██║   ██║██║   ██║╚══███╔╝██╔══██╗" OS           : Windows 11 Pro (Tuned), Android
-     "██║   ██████╔╝██║   ██║██║   ██║  ███╔╝ ███████║" Host         : TRUUZA Tech & Gaming Lab
-     "██║   ██╔══██╗██║   ██║██║   ██║ ███╔╝  ██╔══██║" Kernel       : Hardware Maintenance, AI & Automation
-     "██║   ██║  ██║╚██████╔╝╚██████╔╝███████╗██║  ██║" Shell        : PowerShell 7 / Bash
-     "╚═╝   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝" IDE          : VS Code, ComfyUI, CorelDRAW
-                                                      
-      [ LOCAL AI  •  AUTOMATION  •  SYSTEM TUNING ]   Hardware.CPU : AMD Ryzen 7 5700X
-                                                      Hardware.GPU : AMD Radeon RX 9060 XT (16GB VRAM)
-                                                      Hardware.RAM : 16GB DDR4 + 2TB NVMe SSD
-                                                      
-                                                      Lang.Code    : PowerShell, Python, Batch
-                                                      Lang.Markup  : HTML5, CSS3, JSON, YAML, Markdown
-                                                      Lang.Real    : Português (BR), English
-                                                      
-                                                      AI.Stack     : Ollama, LM Studio, ComfyUI, Wan2.1
-                                                      AI.Accel     : AMD ROCm / DirectML / FP8 Quantization
-                                                      Hobby.Gaming : Modded Minecraft (NeoForge), Elden Ring
-                                                      
-                                                      - Contact    -------------------------------------
-                                                      Discord      : truuza
+                                                        YgorPimentel@TRUUZA
+  ████████╗██████╗ ██╗   ██╗██╗   ██╗███████╗ █████╗ :  --------------------------------------------------
+  ╚══██╔══╝██╔══██╗██║   ██║██║   ██║╚══███╔╝██╔══██╗:  OS           : Windows 11 Pro (Tuned), Android
+     ██║   ██████╔╝██║   ██║██║   ██║  ███╔╝ ███████║:  Host         : TRUUZA Tech & Gaming Lab
+     ██║   ██╔══██╗██║   ██║██║   ██║ ███╔╝  ██╔══██║:  Kernel       : Hardware Maintenance, AI & Automation
+     ██║   ██║  ██║╚██████╔╝╚██████╔╝███████╗██║  ██║:  Shell        : PowerShell 7 / Bash
+     ╚═╝   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝:  IDE          : VS Code, ComfyUI, CorelDRAW
+                                                        
+      [ LOCAL AI  •  AUTOMATION  •  SYSTEM TUNING ]  :  Hardware.CPU : AMD Ryzen 7 5700X
+                                                        Hardware.GPU : AMD Radeon RX 9060 XT (16GB VRAM)
+                                                        Hardware.RAM : 16GB DDR4 + 2TB NVMe SSD
+                                                        
+                                                        Lang.Code    : PowerShell, Python, Batch
+                                                        Lang.Markup  : HTML5, CSS3, JSON, YAML, Markdown
+                                                        Lang.Real    : Português (BR), English
+                                                        
+                                                        AI.Stack     : Ollama, LM Studio, ComfyUI, Wan2.1
+                                                        AI.Accel     : AMD ROCm / DirectML / FP8 Quantization
+                                                        Hobby.Gaming : Modded Minecraft (NeoForge), Elden Ring
+                                                        
+                                                        - Contact    -------------------------------------
+                                                        Discord      : truuza
 
-                                                      ██████████████████████████████████████████████████
+                                                        ██████████████████████████████████████████████████
 ```
 
 <div align="center">
@@ -43,5 +43,8 @@
   <a href="https://discord.com">
     <img src="https://img.shields.io/badge/DISCORD-truuza-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2C2F33" alt="Discord: truuza" />
   </a>
+
+  <br><br>
+  <sub>⚡ <i>Otimizando sistemas, treinando workflows de IA local e dando vida nova a controles na TRUUZA entre um script e outro.</i></sub>
 
 </div>
